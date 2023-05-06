@@ -1,0 +1,30 @@
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\bin\Debug\net6.0\task0.exe
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\bin\Debug\net6.0\task0.deps.json
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\bin\Debug\net6.0\task0.dll
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\bin\Debug\net6.0\task0.pdb
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.dll
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\refint\task0.dll
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.pdb
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+C:\Users\elena\OneDrive\Рабочий стол\C#3\task0\obj\Debug\net6.0\ref\task0.dll
+C:\Users\user\Desktop\C#3\task0\bin\Debug\net6.0\task0.exe
+C:\Users\user\Desktop\C#3\task0\bin\Debug\net6.0\task0.deps.json
+C:\Users\user\Desktop\C#3\task0\bin\Debug\net6.0\task0.runtimeconfig.json
+C:\Users\user\Desktop\C#3\task0\bin\Debug\net6.0\task0.dll
+C:\Users\user\Desktop\C#3\task0\bin\Debug\net6.0\task0.pdb
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.AssemblyInfo.cs
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.dll
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\refint\task0.dll
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.pdb
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\task0.genruntimeconfig.cache
+C:\Users\user\Desktop\C#3\task0\obj\Debug\net6.0\ref\task0.dll
